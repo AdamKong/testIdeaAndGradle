@@ -1,2 +1,2 @@
 # testSomething
-this is for integration with Gradle and Jenkins
+this is for testing something
